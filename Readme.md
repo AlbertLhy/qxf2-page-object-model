@@ -176,7 +176,7 @@ Continuous Integration and Support
 -----------
 This project uses: 
 <a href="https://www.browserstack.com/">
-<img src="https://d98b8t1nnulk5.cloudfront.net/production/images/layout/logo-header.png?1469004780" width="150" height="100" hspace="10"></a>
+<img src="https://d2ogrdw2mh0rsl.cloudfront.net/production/images/static/header/header-logo.svg" width="150" height="100" hspace="10"></a>
 <a href="https://circleci.com/"><img src="https://github.com/circleci/media/blob/master/logo/build/horizontal_dark.1.png?raw=true" width="150" height="100" hspace="10"></a>
 
 
